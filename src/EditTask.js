@@ -1,4 +1,3 @@
-// src/EditTask.js
 import React, { useState } from "react";
 import { db, auth } from "./firebaseConfig";
 import { doc, updateDoc } from "firebase/firestore";
