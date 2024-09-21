@@ -1,4 +1,3 @@
-// src/AddTask.js
 import React, { useState } from "react";
 import { db, auth } from "./firebaseConfig";
 import { collection, addDoc } from "firebase/firestore";
